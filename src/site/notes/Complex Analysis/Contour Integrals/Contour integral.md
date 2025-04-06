@@ -4,6 +4,8 @@
 
 ### Idea
 ![[Lect-16-Cauchy-Goursat-2018-beamer.pdf#page=16]]
+<!-- Web View -->
+<iframe src="assets/Lect-16-Cauchy-Goursat-2018-beamer.pdf#page=16" width="100%" height="600px"></iframe>
 #### Existence of primitive
 ![[Lect-16-Cauchy-Goursat-2018-beamer.pdf#page=17]]
 #### Orientation
