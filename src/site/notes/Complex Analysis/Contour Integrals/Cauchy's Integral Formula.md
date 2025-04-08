@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/complex-analysis/contour-integrals/cauchy-s-integral-formula/"}
+{"dg-publish":true,"permalink":"/complex-analysis/contour-integrals/cauchy-s-integral-formula/","dgPassFrontmatter":true}
 ---
 
 ### Idea
 We take orientation of $\Gamma_\epsilon$ to be clockwise, because it's enclosing outside the domain, [[Complex Analysis/Contour Integrals/Contour integral\|Contour integral]]. 
-![[Lect-17-Cauchy-Integral-formula-2018-beamer.pdf#page=26]]
+![Assets/Pictures/Lect-17-Cauchy-Integral-formula-2018-beamer.webp](/img/user/Assets/Pictures/Lect-17-Cauchy-Integral-formula-2018-beamer.webp)
+
+[[Lect-17-Cauchy-Integral-formula-2018-beamer.pdf#page=26&rect=0,43,362,272|Lect-17-Cauchy-Integral-formula-2018-beamer, p.13]]
+
 By [[Complex Analysis/Contour Integrals/Cauchy-Goursat Theorem\|Cauchy-Goursat Theorem]], the sum of contour integral over the boundary is 0, 
 we can also deform $\Gamma$ into $\Gamma_\epsilon^*$ and their path integrals are equal. 
 ![[Lect-17-Cauchy-Integral-formula-2018-beamer.pdf#page=28]]
