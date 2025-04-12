@@ -10,7 +10,7 @@ A proof using compound angle
 
 ### Formally
 
-#math 
+#math #linear_algebra 
 
 
 
