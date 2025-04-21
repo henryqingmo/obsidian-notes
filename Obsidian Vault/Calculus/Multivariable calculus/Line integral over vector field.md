@@ -3,6 +3,7 @@
 Here $dr$ represents the length of the curve, which is equivalent to $c^{\prime}(t)$ as mentioned in [[Line integral over scalar field]]
 ![[Assets/Pictures/14. Path Integral - Annotated 1.png]]
 [[14. Path Integral - Annotated.pdf#page=16&rect=4,12,445,252|14. Path Integral - Annotated, p.16]]
+Here $d\vec s$ is the same as $d \vec c$ [[Total differential approximation]]
 We have the projection of the [[Vector field]] onto the tangent curve, multiplied by the length of the curve.
 ![[Pasted image 20250409003113.png]]
 This is similar to the concept of work, where we accumulate the work done on every small segment.

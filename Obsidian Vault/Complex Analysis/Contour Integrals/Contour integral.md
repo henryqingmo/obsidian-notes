@@ -3,6 +3,7 @@
 ---
 ### Idea
 ![[Lect-16-Cauchy-Goursat-2018-beamer.pdf#page=16]]
+Basically [[Line integral over vector field]] on a conservative [[Vector field]]
 #### Existence of primitive
 ![[Lect-16-Cauchy-Goursat-2018-beamer.pdf#page=17]]
 #### Orientation
