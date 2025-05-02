@@ -1,0 +1,8 @@
+### Idea
+
+### Formally
+
+#math #calculus 
+
+
+

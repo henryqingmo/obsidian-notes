@@ -20,7 +20,7 @@ Hence we have
 $$
 3f \geq 2e
 $$
-by [[Euler's formula]] we have
+by [[Discrete Math/Graph Theory/Euler's formula]] we have
 $$
 \begin{align}
 v - e + f = 2 \\

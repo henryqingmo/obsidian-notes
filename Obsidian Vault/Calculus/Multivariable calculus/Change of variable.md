@@ -6,7 +6,7 @@ Here each grid in the $(r,\theta)$ plane is scaled by a factor determined by the
 ![[Dr. Trefor Bazett - Change of Variables & The Jacobian Multi-variable Integration [wUF-lyyWpUc - 1047x589 - 4m51s].png]]
 This is similar to the idea of [[Chain rules]] in 1D calculus
 ![[IMG_0416 1.jpeg]]
-Here we expressed $dx$ and $dy$ in terms of their [[Total differential approximation]]. 
+Here we expressed $dx$ and $dy$ in terms of their [[Differentials and best affine approximation]]. 
 
 ### Formally
 The order of integration does matter and might change after a change of variable, which can be determined by their dependency.

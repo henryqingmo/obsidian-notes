@@ -1,3 +1,5 @@
+
+![[IMG_0574.jpeg]]
 ### Idea
 #### Open and punctured ball
 ![[Lect-01-inequalities-and-sets-2018-beamer.pdf#page=20]]

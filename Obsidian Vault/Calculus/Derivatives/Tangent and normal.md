@@ -15,9 +15,6 @@ The normal would just be the [[Cross product]] of the two tangents.
 
 ![[Screen Shot 2024-05-28 at 2.10.45 pm 1.png]]
 
-![[Screen Shot 2024-05-28 at 2.06.19 pm.png]]
-![[Screen Shot 2024-05-28 at 2.08.20 pm.png]]
-
 #math #calculus #differentiation 
 
 
